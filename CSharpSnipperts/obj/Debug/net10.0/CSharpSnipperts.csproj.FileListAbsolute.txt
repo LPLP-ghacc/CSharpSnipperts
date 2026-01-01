@@ -1,0 +1,14 @@
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\bin\Debug\net10.0\CSharpSnipperts.exe
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\bin\Debug\net10.0\CSharpSnipperts.deps.json
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\bin\Debug\net10.0\CSharpSnipperts.runtimeconfig.json
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\bin\Debug\net10.0\CSharpSnipperts.dll
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\bin\Debug\net10.0\CSharpSnipperts.pdb
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\obj\Debug\net10.0\CSharpSnipperts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\obj\Debug\net10.0\CSharpSnipperts.AssemblyInfoInputs.cache
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\obj\Debug\net10.0\CSharpSnipperts.AssemblyInfo.cs
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\obj\Debug\net10.0\CSharpSnipperts.csproj.CoreCompileInputs.cache
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\obj\Debug\net10.0\CSharpSnipperts.dll
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\obj\Debug\net10.0\refint\CSharpSnipperts.dll
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\obj\Debug\net10.0\CSharpSnipperts.pdb
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\obj\Debug\net10.0\CSharpSnipperts.genruntimeconfig.cache
+C:\Users\alpha\RiderProjects\CSharpSnipperts\CSharpSnipperts\obj\Debug\net10.0\ref\CSharpSnipperts.dll
