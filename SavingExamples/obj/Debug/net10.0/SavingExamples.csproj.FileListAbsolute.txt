@@ -12,3 +12,4 @@ C:\Users\alpha\RiderProjects\CSharpSnipperts\SavingExamples\obj\Debug\net10.0\re
 C:\Users\alpha\RiderProjects\CSharpSnipperts\SavingExamples\obj\Debug\net10.0\SavingExamples.pdb
 C:\Users\alpha\RiderProjects\CSharpSnipperts\SavingExamples\obj\Debug\net10.0\SavingExamples.genruntimeconfig.cache
 C:\Users\alpha\RiderProjects\CSharpSnipperts\SavingExamples\obj\Debug\net10.0\ref\SavingExamples.dll
+C:\Users\alpha\RiderProjects\CSharpSnipperts\SavingExamples\obj\Debug\net10.0\SavingExamples.sourcelink.json

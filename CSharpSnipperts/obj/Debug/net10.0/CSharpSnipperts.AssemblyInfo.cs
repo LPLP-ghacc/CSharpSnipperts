@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpSnipperts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38bb9082c593a6bef0c34767785aac3ea6f0a982")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpSnipperts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpSnipperts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
